@@ -1,0 +1,18 @@
+"Read Details",အေသးစိတ္ၿကည္႕ရန္,module,Magento_AdminNotification
+"Mark as Read",ဖတ္ၿပီးဟုထား,module,Magento_AdminNotification
+"Are you sure?",ေသခ်ာလား?,module,Magento_AdminNotification
+Remove,ဖယ္ပစ္ပါ,module,Magento_AdminNotification
+"Messages Inbox",သတင္းအ၀င္,module,Magento_AdminNotification
+"You have %1 new system messages","မင္းမွာ စနစ္အသစ္အတြက္ သတင္းစကားေတြ %1 ရွိတယ္",module,Magento_AdminNotification
+"You have %1 new system message","မင္းမွာ စနစ္အသစ္အတြက္ သတင္းစကား %1 ရွိတယ္",module,Magento_AdminNotification
+"Incoming Message",အ၀င္Message,module,Magento_AdminNotification
+"Visible section not found.","ၿမင္ရမဲ႕အပုိင္း မေတြ႕",module,Magento_Config
+"You cannot run this command because the Magento application is not installed.","Magento မသြင္းထားလုိ႕ ဒီ command ကုိ run မရပါ",module,Magento_Config
+"Parameter ""importer_class"" must be present.","Parameter ""importer_class"" ရွိရပါမယ္။",module,Magento_Deploy
+Exception,ၿခြင္းခ်က္,module,Magento_Deploy
+"Warning message","သတိေပး Message",module,Magento_Backend
+"This operation can take a long time","အခုလုပ္တဲ႕ဟာက အခ်ိန္ၾကာနုိင္တယ္။",module,Magento_Backend
+"Content translation","ပါရွိသည္မ်ားကုိ ဘာသာၿပန္ၿခင္း",module,Magento_Backend
+"Special Price","အထူး ေစ်းႏွုန္း",module,Magento_Bundle
+"Catalog Section",Catalogအပုိင္း,module,Magento_CatalogSearch
+"Customer Data Lifetime","၀ယ္သူ Data သက္တမ္း",module,Magento_Customer
