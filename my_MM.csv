@@ -1,0 +1,30 @@
+"Read Details",အေသးစိတ္ၿကည္႕ရန္,module,Magento_AdminNotification
+"Mark as Read",ဖတ္ၿပီးဟုထား,module,Magento_AdminNotification
+"Are you sure?",ေသခ်ာလား?,module,Magento_AdminNotification
+Remove,ဖယ္ပစ္ပါ,module,Magento_AdminNotification
+"Messages Inbox",သတင္းအ၀င္,module,Magento_AdminNotification
+"You have %1 new system messages","မင္းမွာ စနစ္အသစ္အတြက္ သတင္းစကားေတြ %1 ရွိတယ္",module,Magento_AdminNotification
+"You have %1 new system message","မင္းမွာ စနစ္အသစ္အတြက္ သတင္းစကား %1 ရွိတယ္",module,Magento_AdminNotification
+"Incoming Message","အ၀င္Message ",module,Magento_AdminNotification
+"Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","​တောင်းဆိုထား​သော ပစ္စည်း မရှိပါ။ Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"Class for type ""%1"" was not declared","အမျိုးအစားအတွက် အဆင့်အတန်း ""%1"" မ​ကြေညာထားပါ",module,Magento_Config
+"The ""%1"" path does not exist","""%1"" လမ်း​ကြောင်းမရှိပါ",module,Magento_Config
+"Name is missing","အမည် မပါ​နေပါ",module,Magento_Contact
+"Comment is missing","မှတ်ချက် မပါ​နေပါ",module,Magento_Contact
+"Invalid email address","Email လိပ်စာ မှား​နေသည်",module,Magento_Contact
+"You did not sign in correctly or your account is temporarily disabled.","သင်၏ account သည် ယာယီ ပိတ်သိမ်းခံခဲ့ရသည် သို့မဟုတ် သင်သည် မှန်ကန်စွာ မဝင် ထားခဲ့ပါ။",module,Magento_Customer
+"Password cannot be the same as email address.","စကားဝှက်သည် Email လိပ်စာနဲ့ တူ၍မရပါ။",module,Magento_Customer
+"regionId is a required field.","regionId သည် လိုအပ်​ပါသည်။",module,Magento_Customer
+"Class for type ""%1"" was not declared","အမျိုးအစားအတွက် အဆင့်အတန်း ""%1"" မ​ကြေညာထားပါ",module,Magento_Deploy
+"Value can't be empty","Value မရှိ၍ မရပါ",module,Magento_Deploy
+"Hash has not been saved.","Hash ကို မသိမ်းဆည်းရသေးပါ။",module,Magento_Deploy
+"The configuration file has changed. Run app:config:import or setup:upgrade command to synchronize configuration.","အဆိုပါ configuration file ကိုပြောင်းလဲခဲ့ပါသည်။ တပြိုင်တည်းအလုပ်လုပ်ဖို့ app:config:import သို့မဟုတ် setup:upgrade command ကို run ပါ။",module,Magento_Deploy
+"Some addresses cannot be used due to country-specific configurations.","နိုင်ငံအလိုက် configuration ​​တွေ လုပ်ထား​သော​​ကြောင့် အချို့ လိပ်စာများ အသုံးမပြုနိုင်ပါ။",module,Magento_Multishipping
+"Some addresses cannot be used due to country-specific configurations.","နိုင်ငံအလိုက် configuration ​​တွေ လုပ်ထား​သော​​ကြောင့် အချို့ လိပ်စာများ အသုံးမပြုနိုင်ပါ။",module,Magento_Quote
+"Website was not found","Website ကို ရှာမ​တွေ့ပါ",module,Magento_Store
+"Group was not found","အဖွဲ့ကို ရှာမ​တွေ့ပါ",module,Magento_Store
+"Store was not found","ဆိုင်ကို ရှာမ​တွေ့ပါ",module,Magento_Store
+"Class for type ""%1"" was not declared","အမျိုးအစားအတွက် အဆင့်အတန်း ""%1"" မ​ကြေညာထားပါ",module,Magento_Store
+"Invalid XML in file %1:\n%2","%1:\n%2 file တွင် XML format မှား​နေသည်",module,Magento_Ui
+"Allowed file types: ico, png, gif, jpg, jpeg, apng. Not all browsers support all these formats!","Ico, png, gif, jpg, jpeg, apng အမျိုးအစား​ကိုသာ ခွင့်ပြုသည်။ ထို format အကုန်ကို browser အကုန်လုံးမှ ​ထောက်ပံ့မည် မဟုတ်။",module,Magento_Theme
+"Allowed file types: png, gif, jpg, jpeg.","png, gif, jpg, jpeg အမျိုးအစားကိုသာ ခွင့်ပြုသည်။",module,Magento_Theme
