@@ -12,8 +12,8 @@ This translation is usefull for people living in the Myanmar (Burma) (မြန�
 For our other language packs look at the [Magento2Translations](http://magento2translations.github.io/) page.
 
 # Version & progress
-This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/my#/Head) at Crowdin and based on the Magento 2.2.0 sourcefiles.
-There have been  17 strings translated of the 8763 strings in the Magento source.
+This translation is generated from the branch [Head](https://crowdin.com/project/magento-2/my#/Head) at Crowdin and based on the Magento 2.3.1 sourcefiles.
+There have been  46 strings translated of the 11254 strings in the Magento source.
 
 Translation progress:![Progress](http://progressed.io/bar/0)
 
