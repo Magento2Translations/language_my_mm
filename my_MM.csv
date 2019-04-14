@@ -1,0 +1,69 @@
+"Read Details",အေသးစိတ္ၿကည္႕ရန္,module,Magento_AdminNotification
+"Mark as Read",ဖတ္ၿပီးဟုထား,module,Magento_AdminNotification
+"Are you sure?",ေသခ်ာလား?,module,Magento_AdminNotification
+Remove,ဖယ္ပစ္ပါ,module,Magento_AdminNotification
+"Messages Inbox",သတင္းအ၀င္,module,Magento_AdminNotification
+"You have %1 new system messages","မင္းမွာ စနစ္အသစ္အတြက္ သတင္းစကားေတြ %1 ရွိတယ္",module,Magento_AdminNotification
+"You have %1 new system message","မင္းမွာ စနစ္အသစ္အတြက္ သတင္းစကား %1 ရွိတယ္",module,Magento_AdminNotification
+"Incoming Message","အ၀င္Message ",module,Magento_AdminNotification
+"Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","​တောင်းဆိုထား​သော ပစ္စည်း မရှိပါ။ Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"Class for type ""%1"" was not declared","အမျိုးအစားအတွက် အဆင့်အတန်း ""%1"" မ​ကြေညာထားပါ",module,Magento_Config
+"The ""%1"" path does not exist","""%1"" လမ်း​ကြောင်းမရှိပါ",module,Magento_Config
+"Visible section not found.","မြင်ရ​သော အပိုင်း မ​​တွေ့ပါ။",module,Magento_Config
+"You cannot run this command because the Magento application is not installed.","Magento မသွင်းထား​သော​ကြောင့် ဤ command ကို run ၍မရပါ။",module,Magento_Config
+"Name is missing","အမည် မပါ​နေပါ",module,Magento_Contact
+"Comment is missing","မှတ်ချက် မပါ​နေပါ",module,Magento_Contact
+"Invalid email address","Email လိပ်စာ မှား​နေသည်",module,Magento_Contact
+"You did not sign in correctly or your account is temporarily disabled.","သင်၏ account သည် ယာယီ ပိတ်သိမ်းခံခဲ့ရသည် သို့မဟုတ် သင်သည် မှန်ကန်စွာ မဝင် ထားခဲ့ပါ။",module,Magento_Customer
+"Password cannot be the same as email address.","စကားဝှက်သည် Email လိပ်စာနဲ့ တူ၍မရပါ။",module,Magento_Customer
+"regionId is a required field.","regionId သည် လိုအပ်​ပါသည်။",module,Magento_Customer
+"Class for type ""%1"" was not declared","အမျိုးအစားအတွက် အဆင့်အတန်း ""%1"" မ​ကြေညာထားပါ",module,Magento_Deploy
+"Value can't be empty","Value မရှိ၍ မရပါ",module,Magento_Deploy
+"Hash has not been saved.","Hash ကို မသိမ်းဆည်းရသေးပါ။",module,Magento_Deploy
+"Parameter ""importer_class"" must be present.","Parameter ""importer_class"" ရှိရပါမည်။",module,Magento_Deploy
+"The configuration file has changed. Run app:config:import or setup:upgrade command to synchronize configuration.","အဆိုပါ configuration file ကိုပြောင်းလဲခဲ့ပါသည်။ တပြိုင်တည်းအလုပ်လုပ်ဖို့ app:config:import သို့မဟုတ် setup:upgrade command ကို run ပါ။",module,Magento_Deploy
+Exception,ချွင်းချက်,module,Magento_Deploy
+"Security validation of XML document has been failed.","Security validation of XML document မ​အောင်မြင်ခဲ့ပါ။",module,Magento_Dhl
+"The response is in the wrong format","Response သည် ပုံစံအမှားဖြင့် ရှိ​​နေသည်။",module,Magento_Dhl
+"An attribute code must not be less than %1 and more than %2 characters.","Attribute code တစ်ခုသည် စကားလုံး %1 လုံးထက် မငယ်ရ၊ %2 လုံးထက် မကြီးရပါ။",module,Magento_Eav
+"Some addresses cannot be used due to country-specific configurations.","နိုင်ငံအလိုက် configuration ​​တွေ လုပ်ထား​သော​​ကြောင့် အချို့ လိပ်စာများ အသုံးမပြုနိုင်ပါ။",module,Magento_Multishipping
+"Could not delete the comment.","မှတ်ချက်ကို မဖျက်နိုင်ပါ။",module,Magento_Sales
+"Could not delete the credit memo item.","အကြွေးမှတ်စုတိုကို ဖျက်၍မရပါ။",module,Magento_Sales
+"Could not save the credit memo item.","အကြွေးမှတ်စုတိုကို သိမ်း၍မရပါ။",module,Magento_Sales
+"Could not delete the invoice comment.","ဝယ်ကုန်စာရင်း မှတ်ချက်ကို မဖျက်နိုင်ပါ။",module,Magento_Sales
+"Could not save the invoice comment.","ဝယ်ကုန်စာရင်း မှတ်ချက်ကို မသိမ်းနိုင်ပါ။",module,Magento_Sales
+"Could not delete the invoice item.","ဝယ်ကုန်စာရင်းကို မဖျက်နိုင်ပါ။",module,Magento_Sales
+"Could not save the invoice item.","ဝယ်ကုန်စာရင်းကို မသိမ်းနိုင်ပါ။",module,Magento_Sales
+"Received check doesn't match interface","ရရှိထားသည့်စစ်ဆေးမှုများသည် interface နှင့်မကိုက်ညီပါ",module,Magento_Sales
+"Could not delete the shipment comment.","တင်ပို့ခြင်း မှတ်ချက်ကို မဖျက်နိုင်ပါ။",module,Magento_Sales
+"Could not save the shipment comment.","တင်ပို့ခြင်း မှတ်ချက်ကို မသိမ်းနိုင်ပါ။",module,Magento_Sales
+"Could not delete the shipment item.","တင်ပို့ခြင်းကို မဖျက်နိုင်ပါ။",module,Magento_Sales
+"Could not save the shipment item.","တင်ပို့ခြင်းကို မသိမ်းနိုင်ပါ။",module,Magento_Sales
+"Could not delete the shipment tracking.","တင်ပို့ခြင်း ခြေရာခံခြင်းကို မဖျက်နိုင်ပါ။",module,Magento_Sales
+"Could not save the shipment tracking.","တင်ပို့ခြင်း ခြေရာခံခြင်းကို မသိမ်းနိုင်ပါ။",module,Magento_Sales
+"Could not delete the order status history.","အမှာစာ၏ အ​​​ခြေအ​နေ မှတ်တမ်းကို မဖျက်နိုင်ပါ။",module,Magento_Sales
+"Could not save the order status history.","အမှာစာ၏ အ​​​ခြေအ​နေ မှတ်တမ်းကို မသိမ်းနိုင်ပါ။",module,Magento_Sales
+"Edit Customer","ဝယ်ယူသူ အချက်အလက်ကို ပြင်ပါ",module,Magento_Sales
+"Website was not found","Website ကို ရှာမ​တွေ့ပါ",module,Magento_Store
+"Group was not found","အဖွဲ့ကို ရှာမ​တွေ့ပါ",module,Magento_Store
+"Store was not found","ဆိုင်ကို ရှာမ​တွေ့ပါ",module,Magento_Store
+"Class for type ""%1"" was not declared","အမျိုးအစားအတွက် အဆင့်အတန်း ""%1"" မ​ကြေညာထားပါ",module,Magento_Store
+"Invalid XML in file %1:\n%2","%1:\n%2 file တွင် XML format မှား​နေသည်",module,Magento_Ui
+"URL key for specified store already exists","သတ်မှတ်ထား​သော ဆိုင်အတွက် URL key သည် ရှိ​နေပြီးသားဖြစ်သည်",module,Magento_UrlRewrite
+"Exception instance doesn't match %1 type","ခြွင်းချက်ဥပမာ (Exception instance) သည် %1 အမျိုးအစားနဲ့ မကိုက်ညီပါ",module,Magento_UrlRewrite
+"message %1","စာ %1",module,Magento_UrlRewrite
+message,စာ,module,Magento_UrlRewrite
+"The value specified in the URL Key field would generate a URL that already exists.","URL Key ​နေရာမှာ သတ်မှတ်ထား​သော value သည် ရှိ​နေပြီးသား URL ကို ဖြစ်​ပေါ်စေပါလိမ့်မည်။",module,Magento_UrlRewrite
+"To resolve this conflict, you can either change the value of the URL Key field (located in the Search Engine Optimization section) to a unique value, or change the Request Path fields in all locations listed below:","ဒီပဋိပက္ခဖြေရှင်းရန် သင်သည် URL Key ( Search Engine Optimization အပိုင်းက ) ၏တန်ဖိုးကို unique value ပြောင်းလဲနိုင်သည်၊ ဒါမှမဟုတ် အောက်တွင်ဖော်ပြထားသော နေရာအားလုံးမှာ Request Path ကို ပြောင်းလဲနိုင်သည်၊",module,Magento_UrlRewrite
+Phone,ဖုန်း,module,Magento_Contact
+Message,စာ,module,Magento_Contact
+"Warning message",သတိ​ပေးစာ,module,Magento_Backend
+"This operation can take a long time","ဤလုပ်​ဆောင်ခြင်းသည် အချိန်ကြာနိုင်သည်",module,Magento_Backend
+"Content translation","အ​ကြောင်းအရာကို ဘာသာပြန်ခြင်း",module,Magento_Backend
+"Special Price",အထူး​စျေးနှုန်း,module,Magento_Bundle
+"Catalog Section","Catalog အပိုင်း",module,Magento_CatalogSearch
+"As low as: ","နိမ့်သထက်နိမ့်: ",module,Magento_ConfigurableProduct
+"Customer Data Lifetime","ဝယ်သူ၏ အချက်အလက် သက်တမ်း",module,Magento_Customer
+"Please specify value in minutes.","​ကျေးဇူးပြု၍ value ကို မိနစ်ဖြင့် သတ်မှတ်​ပေးပါ။",module,Magento_Customer
+"Allowed file types: ico, png, gif, jpg, jpeg, apng. Not all browsers support all these formats!","Ico, png, gif, jpg, jpeg, apng အမျိုးအစား​ကိုသာ ခွင့်ပြုသည်။ ထို format အကုန်ကို browser အကုန်လုံးမှ ​ထောက်ပံ့မည် မဟုတ်။",module,Magento_Theme
+"Allowed file types: png, gif, jpg, jpeg.","png, gif, jpg, jpeg အမျိုးအစားကိုသာ ခွင့်ပြုသည်။",module,Magento_Theme
