@@ -1,0 +1,13 @@
+"Read Details",အေသးစိတ္ၿကည္႕ရန္,module,Magento_AdminNotification
+"Mark as Read",ဖတ္ၿပီးဟုထား,module,Magento_AdminNotification
+"Are you sure?",ေသခ်ာလား?,module,Magento_AdminNotification
+Remove,ဖယ္ပစ္ပါ,module,Magento_AdminNotification
+"Messages Inbox",သတင္းအ၀င္,module,Magento_AdminNotification
+"You have %1 new system messages","မင္းမွာ စနစ္အသစ္အတြက္ သတင္းစကားေတြ %1 ရွိတယ္",module,Magento_AdminNotification
+"You have %1 new system message","မင္းမွာ စနစ္အသစ္အတြက္ သတင္းစကား %1 ရွိတယ္",module,Magento_AdminNotification
+"Incoming Message","အ၀င္Message ",module,Magento_AdminNotification
+"Edit Customer","ဝယ်ယူသူ အချက်အလက်ကို ပြင်ပါ",module,Magento_Sales
+"Content translation","အ​ကြောင်းအရာကို ဘာသာပြန်ခြင်း",module,Magento_Backend
+"Catalog Section","Catalog အပိုင်း",module,Magento_CatalogSearch
+"Allowed file types: ico, png, gif, jpg, jpeg, apng. Not all browsers support all these formats!","Ico, png, gif, jpg, jpeg, apng အမျိုးအစား​ကိုသာ ခွင့်ပြုသည်။ ထို format အကုန်ကို browser အကုန်လုံးမှ ​ထောက်ပံ့မည် မဟုတ်။",module,Magento_Theme
+"Allowed file types: png, gif, jpg, jpeg.","png, gif, jpg, jpeg အမျိုးအစားကိုသာ ခွင့်ပြုသည်။",module,Magento_Theme
