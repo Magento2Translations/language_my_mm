@@ -5,4 +5,4 @@ Remove,ဖယ္ပစ္ပါ,module,Magento_AdminNotification
 "Messages Inbox",သတင္းအ၀င္,module,Magento_AdminNotification
 "You have %1 new system messages","မင္းမွာ စနစ္အသစ္အတြက္ သတင္းစကားေတြ %1 ရွိတယ္",module,Magento_AdminNotification
 "You have %1 new system message","မင္းမွာ စနစ္အသစ္အတြက္ သတင္းစကား %1 ရွိတယ္",module,Magento_AdminNotification
-"Incoming Message",အ၀င္Message,module,Magento_AdminNotification
+"Incoming Message","အ၀င္Message ",module,Magento_AdminNotification
